@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Ethan Cecil's push to git hub repository
 public class ConnectFour {
     public static void main (String[] args){
         //Initializes all objects and establishes length and height of board
